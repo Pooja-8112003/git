@@ -1,1 +1,2 @@
 hii im using whatasapp
+change the command line in cmd in my database
