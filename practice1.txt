@@ -1,0 +1,3 @@
+enter the name
+enter the password
+enter the id
